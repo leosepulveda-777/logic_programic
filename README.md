@@ -1,2 +1,0 @@
-# logic_programic
-Trabajo 
